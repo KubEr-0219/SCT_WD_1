@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SCT_WD_1/static/css/main.a20171a5.css",
+    "main.js": "/SCT_WD_1/static/js/main.ccbc324d.js",
+    "index.html": "/SCT_WD_1/index.html",
+    "main.a20171a5.css.map": "/SCT_WD_1/static/css/main.a20171a5.css.map",
+    "main.ccbc324d.js.map": "/SCT_WD_1/static/js/main.ccbc324d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20171a5.css",
+    "static/js/main.ccbc324d.js"
+  ]
+}
