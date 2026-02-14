@@ -13,4 +13,5 @@ This project is a responsive landing page developed as part of **Task 01** for t
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+## 🚀Live Demo
+Link: https://kubEr-0219.github.io/SCT_WD_1
